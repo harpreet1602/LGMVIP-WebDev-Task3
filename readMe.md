@@ -1,3 +1,3 @@
 Hosted Link    
 
-http://studentresultmanagementsystem.great-site.net/studentresult/"# LGMVIP-WebDev-Task3" 
+http://studentresultmanagementsystem.great-site.net/studentresult/
